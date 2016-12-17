@@ -1,0 +1,66 @@
+Switches:,,
+646-674-9999,"New York, NY","You have reached Bell Atlantic Office of West 36th Street serving codes 646, 674, 212, 594, 917, 339"
+718-816-9901,"New York, NY","You have reached the North Staten Island DMS-100, serving codes 273, 390, 442, 447, 448, 556, 720, 727, 815, 816, 876, and 981"
+718-980-9901,"New York, NY","Congratulations! You have reached New Dorp DSL 5ESS Switch and line trunk, 351, 667, 668, 979, 980, and 987"
+914-232-9901,"Katonah, NY",Welcome! You have reached the Pleasentville DMS 100 (Terrible line)
+914-963-9901,"Katonah, NY","You have reached Yonkers DMS, [various numbers], thank you, have a nice day"
+,,
+Errors:,,
+609-729-9928,"Wildwood Crest, NJ","We're sorry, the long distance company you have selected is unable to complete your call at this time. please try your call again later, thank you."
+206-343-0011,"Seattle, WA",This call requires a coin deposit. please hang up momentarilly ...
+573-996-0002,"Doniphan, MO",The number you have dialed is on your own line...
+573-996-0003,"Doniphan, MO","Your call cannot be completed as dialed, please check the # and dial again. (Not AT&T Message)"
+573-996-0005,"Doniphan, MO",Your call did not go through. Will you please hang up and try again?
+412-885-0075,"Pittsburgh, PA","All test positions are unmanned at this time, please try your call again later."
+301-292-9908,"Washington, DC",The call you have made requires a coin deposit...
+541-967-0006,"Albany, OR","Due to network difficulties, your long distance call cannot be completed..."
+541-967-0005,"Albany, OR","This call could not be completed as dialed. If you dialed a 5 digit access code, it has changed..."
+541-967-0004,"Albany, OR",It is not nessary to dial a long distance access code for the number you have dialed
+610-797-0014,"Allentown, PA","Excuse me, please deposit five cents for the next 3 minutes ..."
+916-440-0029,"Sacramento, CA",All circuits are busy now...
+206-343-0011,"Seattle, WA",This call requires a coin deposit please hang up momentarily....
+412-422-9994,"Pittsburgh, PA",The number you have dialed .. has been changed ... (then a StateFarm ad?)
+845-268-9922,"Clarkstown, NY","Excuse me, please deposit five cents for the next two minutes or else ..."
+313-849-9906,"Dearborn, MI","We're sorry, due to heavy calling, we cannot complete your call at this time..."
+313-324-9901,"Detroit, MI","The number you have reached is not in service, this is a recording"
+570-387-0000,"Bloomsburg, PA","Thank you for calling Bell Atlantic. due to an emergency condition, we are operating with a reduced staff ... (switches over to local AT&T ""your call cannot be completed at this time"" message)"
+202-965-9970,"Washington, DC",You have just de-activated this feature
+202-965-9971,"Washington, DC","We're sorry, we are unable to complete your request becouse the number you have called has become busy again"
+202-965-9972,"Washington, DC",At this time the party you have called is not taking calls
+916-440-0017,"Sacramento, CA","We're sorry, your service has been interrupted. for fire, medical and police emergencies, dial 911 ..."
+916-440-0031,"Sacramento, CA","We're sorry. due to telephone company facility trouble, your call cannot be completed at this time. Will you try your call again later?"
+914-345-9935,Greenburgm NY,"Excuse me, please deposit 5 cents for the next two minutes or your call will be terminated. thank you for using Nynex. this is a recording."
+409-724-3137,"Nederland, NY",The call you have made requires an initial deposit. please hang up momentarily...
+215-979-0045,"Philadelphia, PA",The number of dialed is not is service
+800-356-9919,N/A,The number you have dialed is unavaliable from your calling area
+941-232-9901,"Sarasota, FL",The number you have dialed is not a working number
+541-967-0010,"Albany, Or","We're sorry, but the number you have dialed has been disconnected or is no longer in service"
+856-767-9903,"Berlin Borough, NJ",Busy
+,,
+Dedicated Test Numbers:,,
+631-791-8378,"Oakdale, NY","Dedicated test line, includes DTMF test, confrence bridge, echo, record, audio sweep"
+44-1483-604781,"London, UK","Dedicated test line, includes DTMF test, confrence bridge, echo, record, audio sweep"
+416-342-9562,"Toronto, ON, Canada","Dedicated test line, includes DTMF test, confrence bridge, echo, record, audio sweep"
+250 412 5922,"Victoria, Canada","Dedicated test line, includes DTMF test, confrence bridge, echo, record, audio sweep"
+44 161 353 2462,"Manchester, UK","Dedicated test line, includes DTMF test, confrence bridge, echo, record, audio sweep"
+883 5100 0119 6512,iNum,"Dedicated test line, includes DTMF test, confrence bridge, echo, record, audio sweep"
+800-437-7950,N/A,"MCI ANI Verification, Repeats number you are calling from"
+,,
+Tones:,,
+213-621-0002,"Los Angles, CA",Repeating 1khz tone
+503-254-1000,"Portland, Or",Repeating 1khz tone
+252-335-5800,"Elizabeth City, NC",Alternating 1000 hz and 2000 hz
+907-486-1102,"Kodiak, Alaska",1004 Hz at 0 Decibels
+800-437-9606,N/A,"Japaneese ringback tone, followed by ~1600 hz tone"
+909-390-0002,"Ontario, CA",1004 Hz
+330-572-0999,"Akron, OH",Repeating 10 second Tone
+,,
+Recordings:,,
+914-737-9938,"Peekskill, NY","CPTA Announcement test. ""I don't know what it's supposed to say, not really that concerned with it..."""
+212-967-9999,"New York, NY","""4718524000. To report a lost or stolen city card dial press 718 520 3046"" (First # is for a company called Intermetal fabricators inc. with what sounds like the same person on the recording. Second number is busy)"
+202-762-1401,"Washington, DC","Speaking Clock, EST"
+202-762-1069,"Washington, DC","Speaking Clock, EST"
+719-567-6742,"Colorado Springs, CO","Speaking Clock, MST"
+845-354-9912,"Spring Valley, NY",Sped up Verizon error message
+907-486-4171,"Kodiak, Alaska",Time and Weather
+011-44-871-789-3642,Scotland,(Untested) Speaking Clock
