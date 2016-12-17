@@ -1,2 +1,2 @@
-# TelephoneTestNumbers
-A useful list of numbers to test your telephone
+# Telephone Resources
+Resources to test your phone, and dialing plans for countries
